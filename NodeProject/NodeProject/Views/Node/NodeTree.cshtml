@@ -1,0 +1,57 @@
+﻿@model List<TreeModel>
+@{
+}
+
+
+@*<div class="container mt-5">
+    <div id="accordion">
+        @foreach (var category in Model.ToList())
+        {
+            <div class="card">
+                <div class="card-header" id="heading@(category.ParentNode)">
+                    <h5 class="mb-0">
+                        <button class="accordion-button collapsed" data-toggle="collapse" data-target="#collapse@(category.ParentNode)" aria-expanded="true" aria-controls="collapse@(category.ParentNode)">
+                            @category.ParentNode
+                        </button>
+                    </h5>
+                </div>
+                <div id="collapse@(category.ParentNode)" class="accordion-collapse collapse" aria-labelledby="heading@(category.ParentNode)" data-parent="#accordion">
+                    <div class="card-body">
+                        <ul>
+                            @foreach (var item in category.ChildNode)
+                            {
+                                <li>@item</li>
+                            }
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>*@
+
+<div class="container">
+    @foreach (var category in Model.ToList())
+    {
+        <div class="accordion" id="accordionExample">
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingOne">
+                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                        @category.ParentNode
+                    </button>
+                </h2>
+                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                        <ul>
+                            @foreach (var item in category.ChildNode)
+                            {
+                                <li>@item</li>
+                            }
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+
+</div>

@@ -1,0 +1,30 @@
+﻿@model IEnumerable<Node>
+@{
+}
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th scope="col">Node Id</th>
+            <th scope="col">Node Name</th>
+            <th scope="col">Is Active Node</th>
+            <th scope="col">Created Date</th>
+            <th scope="col">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.ToList())
+        {
+            <tr>
+                <th scope="row">@item.NodeId</th>
+                <td>@item.NodeName</td>
+                <td>@item.IsActive</td>
+                <td>@item.StartDate</td>
+                <td>
+                    <a href="@Url.Action("Edit", "Node", new { id = item.NodeId })" class="btn btn-primary">Edit</a>
+                    <a href="@Url.Action("Delete", "Node", new { id = item.NodeId })" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

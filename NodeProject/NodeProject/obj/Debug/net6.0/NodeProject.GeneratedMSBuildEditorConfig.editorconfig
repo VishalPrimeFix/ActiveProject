@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = NodeProject
+build_property.RootNamespace = NodeProject
+build_property.ProjectDir = C:\Users\visha\source\repos\NodeProject\NodeProject\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\visha\source\repos\NodeProject\NodeProject
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/visha/source/repos/NodeProject/NodeProject/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/visha/source/repos/NodeProject/NodeProject/Views/Nodes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9kZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/visha/source/repos/NodeProject/NodeProject/Views/Nodes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9kZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/visha/source/repos/NodeProject/NodeProject/Views/Nodes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9kZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/visha/source/repos/NodeProject/NodeProject/Views/Nodes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9kZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/visha/source/repos/NodeProject/NodeProject/Views/Nodes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9kZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/visha/source/repos/NodeProject/NodeProject/Views/Node/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9kZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/visha/source/repos/NodeProject/NodeProject/Views/Node/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9kZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/visha/source/repos/NodeProject/NodeProject/Views/Node/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9kZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/visha/source/repos/NodeProject/NodeProject/Views/Node/Get.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9kZVxHZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/visha/source/repos/NodeProject/NodeProject/Views/Node/NodeTree.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9kZVxOb2RlVHJlZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/visha/source/repos/NodeProject/NodeProject/Views/Node/Success.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9kZVxTdWNjZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/visha/source/repos/NodeProject/NodeProject/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/visha/source/repos/NodeProject/NodeProject/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/visha/source/repos/NodeProject/NodeProject/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/visha/source/repos/NodeProject/NodeProject/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/visha/source/repos/NodeProject/NodeProject/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-fq9t3df4bi
